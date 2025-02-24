@@ -22,11 +22,11 @@ A simple **Shopping List App** built with **Kotlin** and **Jetpack Compose**. Th
    git clone https://github.com/YOUR_GITHUB_USERNAME/ShoppingListApp.git
 
 ##🛠️ How It Works
-Click "Add Item" to open a dialog and enter item details.
-Press "Edit" ✏️ to modify an existing item.
-Press "Delete" 🗑️ to remove an item from the list.
+- Click "Add Item" to open a dialog and enter item details.
+- Press "Edit" ✏️ to modify an existing item.
+- Press "Delete" 🗑️ to remove an item from the list.
 
 ##📄 License
-This project is open-source and available under the MIT License.
+- This project is open-source and available under the MIT License.
 
-👨‍💻 Developed with ❤️ using Kotlin & Jetpack Compose.
+- 👨‍💻 Developed with ❤️ using Kotlin & Jetpack Compose.
